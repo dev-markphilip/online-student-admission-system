@@ -1,15 +1,15 @@
-# 🧾 Online Student Admission System
+# Online Student Admission System
 
-## 🔍 Overview
+## Overview
 A full-stack, end-to-end admissions management system deployed across 10 university campuses. It unified workflows from application to enrollment, integrating the **Admission Office**, **University Infirmary**, and **Registrar's Office** into a continuous digital process.
 
-## 🎯 The Problem
+## The Problem
 - Manual application forms led to **incomplete or inaccurate data**  
 - Multiple handoffs between units caused delays and redundant tasks  
 - No scheduling control for exams, medical checks, or document submission  
 - CHED billing preparation was error-prone due to fragmented records and a very tedious task
 
-## 🛠️ My Solution
+## My Solution
 - Built a **modular PHP + MySQL** web app for all admission phases  
 - Implemented **automated scheduling**:
   - Admission exam slots for officers
@@ -18,7 +18,7 @@ A full-stack, end-to-end admissions management system deployed across 10 univers
 - Centralized data collection and automated pre-enrollment tracking  
 - Created filtered reporting for CHED billing and Registrar validation
 
-## 💡 Key Features
+## Key Features
 - Role-based access: Applicant, Admission Officer, Medical Staff, Registrar  
 - Admission exam scheduler + seat limits  
 - Medical appointment management  
@@ -26,14 +26,14 @@ A full-stack, end-to-end admissions management system deployed across 10 univers
 - Integration with Online Enrollment page for seamless registrar handoff  
 - Auto-generation of applicant summaries and billing reports
 
-## 🧪 Tools & Stack
+## Tools & Stack
 - **Frontend/UI**: HTML, CSS, Bootstrap  
 - **Backend**: MySQL, PHP  
 - **Scheduling System**: Custom time-slot engine  
 - **Deployment**: Apache + XAMPP (on-premise)  
 - **Documentation**: Manual and in-app help
 
-## 📈 Impact
+## Impact
 - Reduced CHED billing preparation time by **80%**  
 - Eliminated redundant manual data entry across offices  
 - Improved accuracy of applicant data and qualification records  
