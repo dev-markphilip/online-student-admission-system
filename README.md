@@ -6,7 +6,7 @@ A full-stack, end-to-end admissions management system deployed across 10 univers
 ## Video Guides
 - [Online Student Admission System | Cavite State University | 2024-2025](https://www.youtube.com/watch?v=7mblJnYH5zA)
 - [Cavite State University | Online Student Admission System | OSAS 1st sem 2023 - 2024](https://www.youtube.com/watch?v=sA_v2rZOoLY)
-
+- [Online Student Admission System | Cavite State University | 2021](https://www.youtube.com/watch?v=x4_zVwyXahc)
 
 ## The Problem
 - Manual application forms led to **incomplete or inaccurate data**  
