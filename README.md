@@ -3,6 +3,11 @@
 ## Overview
 A full-stack, end-to-end admissions management system deployed across 10 university campuses. It unified workflows from application to enrollment, integrating the **Admission Office**, **University Infirmary**, and **Registrar's Office** into a continuous digital process.
 
+## Video Guides
+https://www.youtube.com/watch?v=7mblJnYH5zA
+https://www.youtube.com/watch?v=sA_v2rZOoLY
+
+
 ## The Problem
 - Manual application forms led to **incomplete or inaccurate data**  
 - Multiple handoffs between units caused delays and redundant tasks  
