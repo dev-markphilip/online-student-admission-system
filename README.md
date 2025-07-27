@@ -2,6 +2,8 @@
 
 ## Overview
 A full-stack, end-to-end admissions management system deployed across 10 university campuses. It unified workflows from application to enrollment, integrating the **Admission Office**, **University Infirmary**, and **Registrar's Office** into a continuous digital process.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/18e4891d-7c7a-43fb-8e75-7324817e69a0" />
+
 
 ## Video Guides
 - [Online Student Admission System | Cavite State University | 2024-2025](https://www.youtube.com/watch?v=7mblJnYH5zA)
