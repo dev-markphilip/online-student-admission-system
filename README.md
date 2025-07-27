@@ -4,8 +4,8 @@
 A full-stack, end-to-end admissions management system deployed across 10 university campuses. It unified workflows from application to enrollment, integrating the **Admission Office**, **University Infirmary**, and **Registrar's Office** into a continuous digital process.
 
 ## Video Guides
-[Online Student Admission System | Cavite State University | 2024-2025](https://www.youtube.com/watch?v=7mblJnYH5zA)
-[Cavite State University | Online Student Admission System | OSAS 1st sem 2023 - 2024](https://www.youtube.com/watch?v=sA_v2rZOoLY)
+- [Online Student Admission System | Cavite State University | 2024-2025](https://www.youtube.com/watch?v=7mblJnYH5zA)
+- [Cavite State University | Online Student Admission System | OSAS 1st sem 2023 - 2024](https://www.youtube.com/watch?v=sA_v2rZOoLY)
 
 
 ## The Problem
